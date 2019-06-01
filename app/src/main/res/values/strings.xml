@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaContato</string>
+    <string name="telefone">Telefone</string>
+    <string name="nome_do_usu_rio">Nome do usuário</string>
+</resources>
